@@ -2,6 +2,8 @@
 namespace HumanNameParser;
 
 /**
+ * Code originally from https://github.com/jasonpriem/HumanNameParser.php
+ * 
  * Works with a Name object to parse out the parts of a name.
  *
  * Example usage:

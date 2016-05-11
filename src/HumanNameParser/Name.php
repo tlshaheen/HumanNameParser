@@ -2,6 +2,7 @@
 namespace HumanNameParser;
 
 /**
+ *  Code originally from https://github.com/jasonpriem/HumanNameParser.php
  * Does cutting and matching stuff with a name string.
  * Note that the string has to be UTF8-encoded.
  *
