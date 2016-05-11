@@ -1,19 +1,10 @@
 ## Originally forked from
+Name: HumanNameParse.php Version: 0.2 Date:	6 Sept. 2010 Author: Jason Priem <jason@jasonpriem.com> Website: <http://jasonpriem.com/human-name-parse> License: <http://www.opensource.org/licenses/mit-license.php>
 
-Name:			HumanNameParse.php
+## To Install
+Add `"tlshaheen/human-name-parser": "0.2"` to your composer.json file and run `composer update`.
 
-Version:		0.2
-
-Date:			6 Sept. 2010
-
-Author:		Jason Priem <jason@jasonpriem.com>
-
-Website:		<http://jasonpriem.com/human-name-parse>
-
-License:		<http://www.opensource.org/licenses/mit-license.php>
-
-
-# Description
+## Description
 Takes human names of arbitrary complexity and various wacky formats like:
 
 * J. Walter Weatherman 
