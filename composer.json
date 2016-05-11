@@ -5,5 +5,8 @@
         "psr-0" : {
           "HumanNameParser" : "src"
         }
+  },
+  "require": {
+    "php": "^5.3.3 || ^7.0"
   }
 }
