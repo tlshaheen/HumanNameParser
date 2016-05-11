@@ -1,4 +1,6 @@
 <?php
+namespace HumanNameParser;
+
 /**
  * Works with a Name object to parse out the parts of a name.
  *
@@ -9,7 +11,7 @@
  *
  *
  */
-class HumanNameParser_Parser {
+class Parser {
     private $name;
 	 private $leadingInit;
 	 private $first;

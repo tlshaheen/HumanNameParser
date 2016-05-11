@@ -1,4 +1,4 @@
-## Originally forked from:
+## Originally forked from
 
 Name:			HumanNameParse.php
 
